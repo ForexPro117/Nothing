@@ -1,5 +1,5 @@
 public class Main {
-    //nichego
-    //nosdnfsdfnl
+    //niche
+    //nosdnfsdf
 }
 
