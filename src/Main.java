@@ -1,5 +1,5 @@
 public class Main {
-    //niche
-    //nosdnfsdf
+    //nicheparadox
+    //zagagulina
 }
 
